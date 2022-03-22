@@ -1,6 +1,7 @@
 ### Hi there 👋
 ### Learning web development for: 7 months
 ### My newest project which shows my actual skill and practises: <a href="https://github.com/gilkarol/school-diary">school-diary</a>
+### I focus on javascript deep comprehension
 
 
 <!--
