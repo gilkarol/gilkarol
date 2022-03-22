@@ -1,4 +1,7 @@
 ### Hi there 👋
+### Learning web development for: 7 months
+### My newest project which shows my actual skill and practises: <a href="https://github.com/gilkarol/school-diary">school-diary</a>
+
 
 <!--
 **gilkarol/gilkarol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
